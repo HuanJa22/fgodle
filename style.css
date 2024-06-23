@@ -1,0 +1,360 @@
+html, body {
+    background: var(--black);
+}
+
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --wrong: #ff0000;
+    --partial: #ffa500;
+    --right: #00cc00;
+}
+
+#game {
+    margin: 30px;
+    display: grid;
+    place-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+#title {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    margin-bottom: 0px;
+}
+
+#textbox {
+    margin: 20px;
+    color: black;
+}
+
+#colors_title{
+    place-items: center;
+    align-items: center;
+}
+
+#color_indicators_container {
+    position: relative;
+    border-radius: 20px;
+    padding: 20px;
+    border: 4px solid var(--white);
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#close_button {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    cursor: pointer;
+}
+
+#check {
+    display: none;
+}
+
+#hint {
+    margin-right: 10px;
+    border-bottom: 1px dotted white;
+}
+
+.row {
+    display: grid;
+    grid-template-columns: repeat(7, auto);
+    gap: 4px;
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    border: 2px solid var(--white);
+    margin: 4px;
+    color: white;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    font-size: 11px;
+}
+
+.color_indicators {
+    display: flex;
+    gap: 20px;
+}
+
+.color_indicator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.square_color {
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+}
+
+.box.right, .square_color.good {
+    background: var(--right);
+} 
+
+.box.wrong, .square_color.wrong {
+    background: var(--wrong);
+}
+
+.box.partial, .square_color.partial {
+    background: var(--partial);
+}
+
+.box.category {
+    height: 30px;
+    border: 2px solid transparent;
+    border-bottom: 2px solid var(--white);
+}
+
+.chibi_morgan {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tooltip {
+    position: relative;
+}
+
+.tooltip_text {
+    visibility: hidden;
+    width: 120px;
+    background-color: var(--white);
+    color: var(--black);
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+    position: absolute;
+    z-index: 1;
+    top: 150%;
+    left: 50%;
+    margin-left: -70px;
+}
+
+.tooltip_text::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent white transparent;
+  }
+
+.tooltip:hover .tooltip_text {
+    visibility: visible;
+}
+
+.container {
+    position: relative;
+    margin: 40px;
+    display: flex;
+}
+
+.button {
+    background-color: #d2d2d2;
+    width: 50px;
+    height: 25px;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.button::before {
+    position: absolute;
+    content: "";
+    background-color: white;
+    width: 22.5px;
+    height: 22.5px;
+    border-radius: 50px;
+    margin: 1.25px;
+    transition: 0.2s;
+}
+
+input:checked + .button {
+    background-color: #00cc00;  
+}
+
+input:checked + .button::before {
+    transform: translateX(25px);
+}
+
+.animated0 {
+    animation: flip0 1s ease;
+}
+
+.animated1 {
+    animation: flip1 1s ease;
+}
+
+.animated2 {
+    animation: flip2 1s ease;
+}
+
+.animated3 {
+    animation: flip3 1s ease;
+}
+
+.animated4 {
+    animation: flip4 1s ease;
+}
+
+.animated5 {
+    animation: flip5 1s ease;
+}
+
+.animated {
+    animation: flip 1s ease;
+}
+
+@keyframes flip {
+    0% {
+        transform: scaleX(0);
+    }
+    14% {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes flip0 {
+    0% {
+        transform: scaleX(0);
+    }
+    14% {
+        transform: scaleX(0);
+    }
+    28%{
+        transform: scaleX(1);
+    }
+}
+
+@keyframes flip1 {
+    0% {
+        transform: scaleX(0);
+    }
+    28%{
+        transform: scaleX(0);
+    }
+    42% {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes flip2 {
+    0% {
+        transform: scaleX(0);
+    }
+    42%{
+        transform: scaleX(0);
+    }
+    57% {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes flip3 {
+    0% {
+        transform: scaleX(0);
+    }
+    57%{
+        transform: scaleX(0);
+    }
+    71% {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes flip4 {
+    0% {
+        transform: scaleX(0);
+    }
+    71%{
+        transform: scaleX(0);
+    }
+    85% {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes flip5 {
+    0% {
+        transform: scaleX(0);
+    }
+    85%{
+        transform: scaleX(0);
+    }
+    100% {
+        transform: scaleX(1);
+    }
+}
+
+.popup .overlay {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+    visibility: hidden;
+}
+
+.popup .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -225px;
+    background: black;
+    color: white;
+    border: solid 5px white;
+    border-radius: 5%;
+    width: 450px;
+    height: 400px;
+    z-index: 2;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    transform: scale(0);
+}
+
+.popup .close_button_popup {
+    position: absolute;
+    cursor: pointer;
+    top: 20px;
+    right: 20px;
+    width: 30px;
+    height: 30px;
+    background: #222;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.popup.active .overlay {
+    transition-delay: 1.5s;
+    visibility: visible;
+}
+
+.popup.active .content {
+    transition-delay: 1.5s;
+    transition-property: all;
+    transition-duration: 300ms;
+    transform: scale(1);
+}
+
+.answer_img {
+    margin: 10px;
+}

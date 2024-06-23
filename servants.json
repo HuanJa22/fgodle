@@ -1,0 +1,3432 @@
+{
+    "Mash Kyrielight": {
+        "Image": "./images_square/001png.png",
+        "Name": "Mash Kyrielight",
+        "Gender": "Female",
+        "Class": ["Shielder"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/mash_kyrielight.jpg"
+    },
+    "Altria Pendragon": {
+        "Image": "./images_square/002png.png",
+        "Name": "Altria Pendragon",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/altria_pendragon.jpg"
+    },
+    "Altria Pendragon (Alter)": {
+        "Image": "./images_square/003png.png",
+        "Name": "Altria Pendragon (Alter)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/altria_pendragon_alter.jpg"
+    },
+    "Altria Pendragon (Lily)": {
+        "Image": "./images_square/004png.png",
+        "Name": "Altria Pendragon (Lily)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/altria_pendragon_lily.jpg"
+    },
+    "Nero Claudius": {
+        "Image": "./images_square/005png.png",
+        "Name": "Nero Claudius",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/nero_claudius.jpg"
+    },
+    "Siegfried": {
+        "Image": "./images_square/006png.png",
+        "Name": "Siegfried",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/siegfried.jpg"
+    },
+    "Gaius Julius Caesar": {
+        "Image": "./images_square/007png.png",
+        "Name": "Gaius Julius Caesar",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/gaius_julius_caesar.jpg"
+    },
+    "Altera": {
+        "Image": "./images_square/008png.png",
+        "Name": "Altera",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/altera.jpg"
+    },
+    "Gilles de Rais": {
+        "Image": "./images_square/009png.png",
+        "Name": "Gilles de Rais",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/gilles_de_rais.jpg"
+    },
+    "Chevalier d'Eon": {
+        "Image": "./images_square/010png.png",
+        "Name": "Chevalier d'Eon",
+        "Gender": "Unknown",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/chevalier_d_eon.jpg"
+    },
+    "EMIYA": {
+        "Image": "./images_square/011png.png",
+        "Name": "EMIYA",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Arts", "Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/emiya.jpg"
+    },
+    "Gilgamesh": {
+        "Image": "./images_square/012png.png",
+        "Name": "Gilgamesh",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/gilgamesh.jpg"
+    },
+    "Robin Hood": {
+        "Image": "./images_square/013png.png",
+        "Name": "Robin Hood",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/robin_hood.jpg"
+    },
+    "Atalante": {
+        "Image": "./images_square/014png.png",
+        "Name": "Atalante",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/atalante.jpg"
+    },
+    "Euryale": {
+        "Image": "./images_square/015png.png",
+        "Name": "Euryale",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/euryale.jpg"
+    },
+    "Arash": {
+        "Image": "./images_square/016png.png",
+        "Name": "Arash",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 1,
+        "Release Year": 2017,
+        "Images": "./images/arash.jpg"
+    },
+    "Cu Chulainn": {
+        "Image": "./images_square/017png.png",
+        "Name": "Cu Chulainn",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/cu_chulainn.jpg"
+    },
+    "Elisabeth Bathory": {
+        "Image": "./images_square/018png.png",
+        "Name": "Elisabeth Bathory",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/elisabeth_bathory.jpg"
+    },
+    "Musashibou Benkei": {
+        "Image": "./images_square/019png.png",
+        "Name": "Musashibou Benkei",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/musashibou_benkei.jpg"
+    },
+    "Cu Chulainn (Prototype)": {
+        "Image": "./images_square/020png.png",
+        "Name": "Cu Chulainn (Prototype)",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/cu_chulainn_prototype.jpg"
+    },
+    "Leonidas": {
+        "Image": "./images_square/021png.png",
+        "Name": "Leonidas",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/leonidas.jpg"
+    },
+    "Romulus": {
+        "Image": "./images_square/022png.png",
+        "Name": "Romulus",
+        "Gender": "Unknown",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/romulus.jpg"
+    },
+    "Medusa": {
+        "Image": "./images_square/023png.png",
+        "Name": "Medusa",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/medusa.jpg"
+    },
+    "Georgios": {
+        "Image": "./images_square/024png.png",
+        "Name": "Georgios",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/georgios.jpg"
+    },
+    "Edward Teach": {
+        "Image": "./images_square/025png.png",
+        "Name": "Edward Teach",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/edward_teach.jpg"
+    },
+    "Boudica": {
+        "Image": "./images_square/026png.png",
+        "Name": "Boudica",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/boudica.jpg"
+    },
+    "Ushiwakamaru": {
+        "Image": "./images_square/027png.png",
+        "Name": "Ushiwakamaru",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/ushiwakamaru.jpg"
+    },
+    "Alexander": {
+        "Image": "./images_square/028png.png",
+        "Name": "Alexander",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/alexander.jpg"
+    },
+    "Marie Antoinette": {
+        "Image": "./images_square/029png.png",
+        "Name": "Marie Antoinette",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/marie_antoinette.jpg"
+    },
+    "Saint Martha": {
+        "Image": "./images_square/030png.png",
+        "Name": "Saint Martha",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/saint_martha.jpg"
+    },
+    "Medea": {
+        "Image": "./images_square/031png.png",
+        "Name": "Medea",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/medea.jpg"
+    },
+    "Gilles de Rais (Caster)": {
+        "Image": "./images_square/032png.png",
+        "Name": "Gilles de Rais (Caster)",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/gilles_de_rais_caster.jpg"
+    },
+    "Hans Christian Andersen": {
+        "Image": "./images_square/033png.png",
+        "Name": "Hans Christian Andersen",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/hans_christian_andersen.jpg"
+    },
+    "William Shakespeare": {
+        "Image": "./images_square/034png.png",
+        "Name": "William Shakespeare",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/william_shakespeare.jpg"
+    },
+    "Mephistopheles": {
+        "Image": "./images_square/035png.png",
+        "Name": "Mephistopheles",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/mephistopheles.jpg"
+    },
+    "Wolfgang Amadeus Mozart": {
+        "Image": "./images_square/036png.png",
+        "Name": "Wolfgang Amadeus Mozart",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 1,
+        "Release Year": 2017,
+        "Images": "./images/wolfgang_amadeus_mozart.jpg"
+    },
+    "Zhuge Liang (El-Melloi II)": {
+        "Image": "./images_square/037png.png",
+        "Name": "Zhuge Liang (El-Melloi II)",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/zhuge_liang_el-melloi_II.jpg"
+    },
+    "Cu Chulainn (Caster)": {
+        "Image": "./images_square/038png.png",
+        "Name": "Cu Chulainn (Caster)",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/cu_chulainn_caster.jpg"
+    },
+    "Sasaki Kojirou": {
+        "Image": "./images_square/039png.png",
+        "Name": "Sasaki Kojirou",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 1,
+        "Release Year": 2017,
+        "Images": "./images/sasaki_kojirou.jpg"
+    },
+    "Hassan of the Cursed Arm": {
+        "Image": "./images_square/040png.png",
+        "Name": "Hassan of the Cursed Arm",
+        "Gender": "Male", 
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/hassan_of_the_cursed_arm.jpg"
+    },
+    "Stheno": {
+        "Image": "./images_square/041png.png",
+        "Name": "Stheno",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/stheno.jpg"
+    },
+    "Jing Ke": {
+        "Image": "./images_square/042png.png",
+        "Name": "Jing Ke",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/jing_ke.jpg"
+    },
+    "Charles-Henri Sanson": {
+        "Image": "./images_square/043png.png",
+        "Name": "Charles-Henri Sanson",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/charles-henri_sanson.jpg"
+    },
+    "Phantom of the Opera": {
+        "Image": "./images_square/044png.png",
+        "Name": "Phantom of the Opera",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/phantom_of_the_opera.jpg"
+    },
+    "Mata Hari": {
+        "Image": "./images_square/045png.png",
+        "Name": "Mata Hari",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 1,
+        "Release Year": 2017,
+        "Images": "./images/mata_hari.jpg"
+    },
+    "Carmilla": {
+        "Image": "./images_square/046png.png",
+        "Name": "Carmilla",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/carmilla.jpg"
+    },
+    "Heracles": {
+        "Image": "./images_square/047png.png",
+        "Name": "Heracles",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/heracles.jpg"
+    },
+    "Lancelot": {
+        "Image": "./images_square/048png.png",
+        "Name": "Lancelot",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/lancelot.jpg"
+    },
+    "Lu Bu Fengxian": {
+        "Image": "./images_square/049png.png",
+        "Name": "Lu Bu Fengxian",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/lu_bu_fengxian.jpg"
+    },
+    "Spartacus": {
+        "Image": "./images_square/050png.png",
+        "Name": "Spartacus",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 1,
+        "Release Year": 2017,
+        "Images": "./images/spartacus.jpg"
+    },
+    "Sakata Kintoki": {
+        "Image": "./images_square/051png.png",
+        "Name": "Sakata Kintoki",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/sakata_kintoki.jpg"
+    },
+    "Vlad III": {
+        "Image": "./images_square/052png.png",
+        "Name": "Vlad III",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/vlad_iii.jpg"
+    },
+    "Asterios": {
+        "Image": "./images_square/053png.png",
+        "Name": "Asterios",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 1,
+        "Release Year": 2017,
+        "Images": "./images/asterios.jpg"
+    },
+    "Caligula": {
+        "Image": "./images_square/054png.png",
+        "Name": "Caligula",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/caligula.jpg"
+    },
+    "Darius III": {
+        "Image": "./images_square/055png.png",
+        "Name": "Darius III",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/darius_iii.jpg"
+    },
+    "Kiyohime": {
+        "Image": "./images_square/056png.png",
+        "Name": "Kiyohime",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/kiyohime.jpg"
+    },
+    "Eric Bloodaxe": {
+        "Image": "./images_square/057png.png",
+        "Name": "Spartacus",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 2,
+        "Release Year": 2017,
+        "Images": "./images/eric_bloodaxe.jpg"
+    },
+    "Tamamo Cat": {
+        "Image": "./images_square/058png.png",
+        "Name": "Tamamo Cat",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/tamamo_cat.jpg"
+    },
+    "Jeanne d'Arc": {
+        "Image": "./images_square/059png.png",
+        "Name": "Jeanne d'Arc",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/jeanne_d_arc.jpg"
+    },
+    "Orion": {
+        "Image": "./images_square/060png.png",
+        "Name": "Orion",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/orion.jpg"
+    },
+    "Elisabeth Bathory (Halloween)": {
+        "Image": "./images_square/061png.png",
+        "Name": "Elisabeth Bathory (Halloween)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/elisabeth_bathory_halloween.jpg"
+    },
+    "Tamamo-no-Mae": {
+        "Image": "./images_square/062png.png",
+        "Name": "Tamamo-no-Mae",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/tamamo_no_mae.jpg"
+    },
+    "David": {
+        "Image": "./images_square/063png.png",
+        "Name": "David",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/david.jpg"
+    },
+    "Hektor": {
+        "Image": "./images_square/064png.png",
+        "Name": "Hektor",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/hektor.jpg"
+    },
+    "Francis Drake": {
+        "Image": "./images_square/065png.png",
+        "Name": "Francis Drake",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/francis_drake.jpg"
+    },
+    "Anne Bonny & Mary Read": {
+        "Image": "./images_square/066png.png",
+        "Name": "Anne Bonny & Mary Read",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/anne_bonny_and_mary_read.jpg"
+    },
+    "Medea (Lily)": {
+        "Image": "./images_square/067png.png",
+        "Name": "Medea (Lily)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/medea_lily.jpg"
+    },
+    "Okita Souji": {
+        "Image": "./images_square/068png.png",
+        "Name": "Okita Souji",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/okita_souji.jpg"
+    },
+    "Oda Nobunaga": {
+        "Image": "./images_square/069png.png",
+        "Name": "Oda Nobunaga",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/oda_nobunaga.jpg"
+    },
+    "Scathach": {
+        "Image": "./images_square/070png.png",
+        "Name": "Scathach",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/scathach.jpg"
+    },
+    "Diarmuid ua Duibhne": {
+        "Image": "./images_square/071png.png",
+        "Name": "Diarmuid ua Duibhne",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/diarmuid_ua_duibhne.jpg"
+    },
+    "Fergus mac Roich": {
+        "Image": "./images_square/072png.png",
+        "Name": "Fergus mac Roich",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/fergus_mac_roich.jpg"
+    },
+    "Altria Pendragon (Santa Alter)": {
+        "Image": "./images_square/073png.png",
+        "Name": "Altria Pendragon (Santa Alter)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/altria_pendragon_santa_alter.jpg"
+    },
+    "Nursery Rhyme": {
+        "Image": "./images_square/074png.png",
+        "Name": "Nursery Rhyme",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/nursery_rhyme.jpg"
+    },
+    "Jack the Ripper": {
+        "Image": "./images_square/075png.png",
+        "Name": "Jack the Ripper",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/jack_the_ripper.jpg"
+    },
+    "Mordred": {
+        "Image": "./images_square/076png.png",
+        "Name": "Mordred",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/mordred.jpg"
+    },
+    "Nikola Tesla": {
+        "Image": "./images_square/077png.png",
+        "Name": "Nikola Tesla",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/nikola_tesla.jpg"
+    },
+    "Altria Pendragon (Lancer Alter)": {
+        "Image": "./images_square/078png.png",
+        "Name": "Altria Pendragon (Lancer Alter)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/altria_pendragon_lancer_alter.jpg"
+    },
+    "Paracelsus von Hohenheim": {
+        "Image": "./images_square/079png.png",
+        "Name": "Paracelsus von Hohenheim",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/paracelsus_von_hohenheim.jpg"
+    },
+    "Charles Babbage": {
+        "Image": "./images_square/080png.png",
+        "Name": "Charles Babbage",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/charles_babbage.jpg"
+    },
+    "Henry Jekyll & Hyde": {
+        "Image": "./images_square/081png.png",
+        "Name": "Henry Jekyll & Hyde",
+        "Gender": "Male",
+        "Class": ["Assassin", "Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2017,
+        "Images": "./images/henry_jekyll_and_hyde.jpg"
+    },
+    "Frankenstein": {
+        "Image": "./images_square/082png.png",
+        "Name": "Frankenstein",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2017,
+        "Images": "./images/frankenstein.jpg"
+    },
+    "Arjuna": {
+        "Image": "./images_square/084png.png",
+        "Name": "Arjuna",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/arjuna.jpg"
+    },
+    "Karna": {
+        "Image": "./images_square/085png.png",
+        "Name": "Karna",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2017,
+        "Images": "./images/karna.jpg"
+    },
+    "Mysterious Heroine X": {
+        "Image": "./images_square/086png.png",
+        "Name": "Mysterious Heroine X",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/mysterious_heroine_x.jpg"
+    },
+    "Fionn mac Cumhaill": {
+        "Image": "./images_square/087png.png",
+        "Name": "Fionn mac Cumhaill",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/fionn_mac_cumhaill.jpg"
+    },
+    "Brynhild": {
+        "Image": "./images_square/088png.png",
+        "Name": "Brynhild",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/brynhild.jpg"
+    },
+    "Beowulf": {
+        "Image": "./images_square/089png.png",
+        "Name": "Beowulf",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/beowulf.jpg"
+    },
+    "Nero Claudius (Bride)": {
+        "Image": "./images_square/090png.png",
+        "Name": "Nero Claudius (Bride)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/nero_claudius_bride.jpg"
+    },
+    "Ryougi Shiki (Saber)": {
+        "Image": "./images_square/091png.png",
+        "Name": "Ryougi Shiki (Saber)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/ryougi_shiki_saber.jpg"
+    },
+    "Ryougi Shiki (Assassin)": {
+        "Image": "./images_square/092png.png",
+        "Name": "Ryougi Shiki (Assassin)",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/ryougi_shiki_assassin.jpg"
+    },
+    "Amakusa Shirou": {
+        "Image": "./images_square/093png.png",
+        "Name": "Amakusa Shirou",
+        "Gender": "Male",
+        "Class": ["Ruler"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/amakusa_shirou.jpg"
+    },
+    "Astolfo": {
+        "Image": "./images_square/094png.png",
+        "Name": "Astolfo",
+        "Gender": "Unknown",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/astolfo.jpg"
+    },
+    "Kid Gilgamesh": {
+        "Image": "./images_square/095png.png",
+        "Name": "Kid Gilgamesh",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/kid_gilgamesh.jpg"
+    },
+    "Edmond Dantes": {
+        "Image": "./images_square/096png.png",
+        "Name": "Edmond Dantes",
+        "Gender": "Male",
+        "Class": ["Avenger"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/edmond_dantes.jpg"
+    },
+    "Nightingale": {
+        "Image": "./images_square/097png.png",
+        "Name": "Nightingale",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/nightingale.jpg"
+    },
+    "Cu Chulainn (Alter)": {
+        "Image": "./images_square/098png.png",
+        "Name": "Cu Chulainn (Alter)",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/cu_chulainn_alter.jpg"
+    },
+    "Queen Medb": {
+        "Image": "./images_square/099png.png",
+        "Name": "Queen Medb",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/queen_medb.jpg"
+    },
+    "Helena Blavatsky": {
+        "Image": "./images_square/100png.png",
+        "Name": "Helena Blavatsky",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/helena_blavatsky.jpg"
+    },
+    "Rama": {
+        "Image": "./images_square/101png.png",
+        "Name": "Rama",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/rama.jpg"
+    },
+    "Li Shuwen": {
+        "Image": "./images_square/102png.png",
+        "Name": "Li Shuwen",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/li_shuwen.jpg   "
+    },
+    "Thomas Edison": {
+        "Image": "./images_square/103png.png",
+        "Name": "Thomas Edison",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/thomas_edison.jpg"
+    },
+    "Geronimo": {
+        "Image": "./images_square/104png.png",
+        "Name": "Geronimo",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/geronimo.jpg"
+    },
+    "Billy the Kid": {
+        "Image": "./images_square/105png.png",
+        "Name": "Billy the Kid",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/billy_the_kid.jpg"
+    },
+    "Jeanne d'Arc (Alter)": {
+        "Image": "./images_square/106png.png",
+        "Name": "Jeanne d'Arc (Alter)",
+        "Gender": "Female",
+        "Class": ["Avenger"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/jeanne_d_arc_alter.jpg"
+    },
+    "Anra Mainiiu": {
+        "Image": "./images_square/107png.png",
+        "Name": "Anra Mainiiu",
+        "Gender": "Male",
+        "Class": ["Avenger"],
+        "Np Type": ["Arts"],
+        "Rarity": 0,
+        "Release Year": 2018,
+        "Images": "./images/anra_mainiiu.jpg"
+    },
+    "Iskandar": {
+        "Image": "./images_square/108png.png",
+        "Name": "Iskandar",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/iskandar.jpg"
+    },
+    "EMIYA (Assassin)": {
+        "Image": "./images_square/109png.png",
+        "Name": "EMIYA (Assassin)",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/emiya_assassin.jpg"
+    },
+    "Hassan of the Hundred Personas": {
+        "Image": "./images_square/110png.png",
+        "Name": "Hassan of the Hundred Personas",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/hassan_of_the_hundred_persona.jpg"
+    },
+    "Irisviel (Holy Grail)": {
+        "Image": "./images_square/111png.png",
+        "Name": "Irisviel (Holy Grail)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/irisviel_holy_grail.jpg"
+    },
+    "Shuten-Douji": {
+        "Image": "./images_square/112png.png",
+        "Name": "Shuten-Douji",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/shuten-douji.jpg"
+    },
+    "Xuanzang Sanzang": {
+        "Image": "./images_square/113png.png",
+        "Name": "XuanZang Sanzang",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/xuanzang_sanzang.jpg"
+    },
+    "Minamoto-no-Raikou": {
+        "Image": "./images_square/114png.png",
+        "Name": "Minamoto-no-Raikou",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/minamoto-no-raikou.jpg"
+    },
+    "Sakata Kintoki (Rider)": {
+        "Image": "./images_square/115png.png",
+        "Name": "Sakata Kintoki (Rider)",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/sakata_kintoki_rider.jpg"
+    },
+    "Ibaraki-Douji": {
+        "Image": "./images_square/116png.png",
+        "Name": "Ibaraki-Douji",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/ibaraki-douji.jpg"
+    },
+    "Fuuma Kotarou": {
+        "Image": "./images_square/117png.png",
+        "Name": "Fuuma Kotarou",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/fuuma_kotarou.jpg"
+    },
+    "Ozymandias": {
+        "Image": "./images_square/118png.png",
+        "Name": "Ozymandias",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/ozymandias.jpg"
+    },
+    "Altria Pendragon (Lancer)": {
+        "Image": "./images_square/119png.png",
+        "Name": "Altria Pendragon (Lancer)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/altria_pendragon_lancer.jpg"
+    },
+    "Nitocris": {
+        "Image": "./images_square/120png.png",
+        "Name": "Nitocris",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/nitocris.jpg"
+    },
+    "Lancelot (Saber)": {
+        "Image": "./images_square/121png.png",
+        "Name": "Lancelot (Saber)",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/lancelot_saber.jpg"
+    },
+    "Tristan": {
+        "Image": "./images_square/122png.png",
+        "Name": "Tristan",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/tristan.jpg"
+    },
+    "Gawain": {
+        "Image": "./images_square/123png.png",
+        "Name": "Gawain",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/gawain.jpg"
+    },
+    "Hassan of the Serenity": {
+        "Image": "./images_square/124png.png",
+        "Name": "Hassan of the Serenity",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/hassan_of_the_serenity.jpg"
+    },
+    "Tawara Touta": {
+        "Image": "./images_square/125png.png",
+        "Name": "Tawara Touta",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/tawara_touta.jpg"
+    },
+    "Bedivere": {
+        "Image": "./images_square/126png.png",
+        "Name": "Bedivere",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/bedivere.jpg"
+    },
+    "Leonardo da Vinci": {
+        "Image": "./images_square/127png.png",
+        "Name": "Leonardo da Vinci",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/leonardo_da_vinci.jpg"
+    },
+    "Tamamo-no-Mae (Lancer)": {
+        "Image": "./images_square/128png.png",
+        "Name": "Tamamo-no-Mae (Lancer)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/tamamo-no-mae-lancer.jpg"
+    },
+    "Altria Pendragon (Archer)": {
+        "Image": "./images_square/129png.png",
+        "Name": "Altria Pendragon (Archer)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/altria-pendragon-archer.jpg"
+    },
+    "Marie Antoinette (Caster)": {
+        "Image": "./images_square/130png.png",
+        "Name": "Marie Antoinette (Caster)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/marie-antoinette-caster.jpg"
+    },
+    "Anne Bonny & Mary Read (Archer)": {
+        "Image": "./images_square/131png.png",
+        "Name": "Anne Bonny & Mary Read (Archer)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/anne-bonny-mary-read-archer.jpg"
+    },
+    "Mordred (Rider)": {
+        "Image": "./images_square/132png.png",
+        "Name": "Mordred (Rider)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/mordred-rider.jpg"
+    },
+    "Scathach (Assassin)": {
+        "Image": "./images_square/133png.png",
+        "Name": "Scathach (Assassin)",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/scathach-assassin.jpg"
+    },
+    "Kiyohime (Lancer)": {
+        "Image": "./images_square/134png.png",
+        "Name": "Kiyohime (Lancer)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/kiyohime-lancer.jpg"
+    },
+    "Saint Martha (Ruler)": {
+        "Image": "./images_square/134png.png",
+        "Name": "Saint Martha (Ruler)",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/saint-martha-ruler.jpg"
+    },
+    "Illyasviel von Einzbern": {
+        "Image": "./images_square/136png.png",
+        "Name": "Illyasviel von Einzbern",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/illyasviel-von-einzbern.jpg"
+    },
+    "Chloe von Einzbern": {
+        "Image": "./images_square/137png.png",
+        "Name": "Chloe von Einzbern",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/chloe-von-einzbern.jpg"
+    },
+    "Elisabeth Bathory (Brave)": {
+        "Image": "./images_square/138png.png",
+        "Name": "Elisabeth Bathory (Brave)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/elisabeth-bathory-brave.jpg"
+    },
+    "Cleopatra": {
+        "Image": "./images_square/139png.png",
+        "Name": "Cleopatra",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/cleopatra.jpg"
+    },
+    "Vlad III (EXTRA)": {
+        "Image": "./images_square/140png.png",
+        "Name": "Vlad III (EXTRA)",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/vlad-iii-extra.jpg"
+    },
+    "Jeanne d'Arc (Alter Santa Lily)": {
+        "Image": "./images_square/141png.png",
+        "Name": "Jeanne d'Arc (Alter Santa Lily)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/jeanne-darc-alter-santa-lily.jpg"
+    },
+    "Ishtar": {
+        "Image": "./images_square/142png.png",
+        "Name": "Ishtar",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/ishtar.jpg"
+    },
+    "Enkidu": {
+        "Image": "./images_square/143png.png",
+        "Name": "Enkidu",
+        "Gender": "Unknown",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/enkidu.jpg"
+    },
+    "Quetzalcoatl": {
+        "Image": "./images_square/144png.png",
+        "Name": "Quetzalcoatl",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/quetzalcoatl.jpg"
+    },
+    "Gilgamesh (Caster)": {
+        "Image": "./images_square/145png.png",
+        "Name": "Gilgamesh (Caster)",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/gilgamesh-caster.jpg"
+    },
+    "Medusa (Lancer)": {
+        "Image": "./images_square/146png.png",
+        "Name": "Medusa (Lancer)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/medusa-lancer.jpg"
+    },
+    "Gorgon": {
+        "Image": "./images_square/147png.png",
+        "Name": "Gorgon",
+        "Gender": "Female",
+        "Class": ["Avenger"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2018,
+        "Images": "./images/gorgon.jpg"
+    },
+    "Jaguar Warrior": {
+        "Image": "./images_square/148png.png",
+        "Name": "Jaguar Warrior",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2018,
+        "Images": "./images/jaguar-warrior.jpg"
+    },
+    "Merlin": {
+        "Image": "./images_square/150png.png",
+        "Name": "Merlin",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2018,
+        "Images": "./images/merlin.jpg"
+    },
+    "Miyamoto Musashi": {
+        "Image": "./images_square/153png.png",
+        "Name": "Miyamoto Musashi",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/miyamoto-musashi.jpg"
+    },
+    "First Hassan": {
+        "Image": "./images_square/154png.png",
+        "Name": "First Hassan",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/first-hassan.jpg"
+    },
+    "Mysterious Heroine X (Alter)": {
+        "Image": "./images_square/155png.png",
+        "Name": "Mysterious Heroine X (Alter)",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/mysterious-heroine-x-alter.jpg"
+    },
+    "James Moriarty": {
+        "Image": "./images_square/156png.png",
+        "Name": "James Moriarty",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/archer-shinjuku.jpg"
+    },
+    "EMIYA (Alter)": {
+        "Image": "./images_square/157png.png",
+        "Name": "EMIYA (Alter)",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/emiya-alter.jpg"
+    },
+    "Hessian Lobo": {
+        "Image": "./images_square/158png.png",
+        "Name": "Hessian Lobo",
+        "Gender": "Male",
+        "Class": ["Avenger"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/avenger-shinjuku.jpg"
+    },
+    "Yan Qing": {
+        "Image": "./images_square/159png.png",
+        "Name": "Yan Qing",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/assassin-shinjuku.jpg"
+    },
+    "Arthur Pendragon (Prototype)": {
+        "Image": "./images_square/160png.png",
+        "Name": "Arthur Pendragon (Prototype)",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/arthur-pendragon-prototype.jpg"
+    },
+    "Hijikata Toshizo": {
+        "Image": "./images_square/161png.png",
+        "Name": "Hijikata Toshizo",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/hijikata-toshizo.jpg"
+    },
+    "Chacha": {
+        "Image": "./images_square/162png.png",
+        "Name": "Chacha",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/chacha.jpg"
+    },
+    "Meltryllis": {
+        "Image": "./images_square/163png.png",
+        "Name": "Meltryllis",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/meltryllis.jpg"
+    },
+    "Passionlip": {
+        "Image": "./images_square/164png.png",
+        "Name": "Passionlip",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/passionlip.jpg"
+    },
+    "Suzuka Gozen": {
+        "Image": "./images_square/165png.png",
+        "Name": "Suzuka Gozen",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/suzuka-gozen.jpg"
+    },
+    "BB": {
+        "Image": "./images_square/166png.png",
+        "Name": "BB",
+        "Gender": "Female",
+        "Class": ["Moon Cancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/bb.jpg"
+    },
+    "Sessyoin Kiara": {
+        "Image": "./images_square/167png.png",
+        "Name": "Sessyoin Kiara",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/sessyoin-kiara.jpg"
+    },
+    "Scheherezade": {
+        "Image": "./images_square/169png.png",
+        "Name": "Scheherezade",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/caster-nightless-city.jpg"
+    },
+    "Wu Zetian": {
+        "Image": "./images_square/170png.png",
+        "Name": "Wu Zetian",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/assassin-nightless-city.jpg"
+    },
+    "Penthesilea": {
+        "Image": "./images_square/171png.png",
+        "Name": "Penthesilea",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/berserker-el-dorado.jpg"
+    },
+    "Christopher Columbus": {
+        "Image": "./images_square/172png.png",
+        "Name": "Christopher Columbus",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2019,
+        "Images": "./images/rider-resistance.jpg"
+    },
+    "Sherlock Holmes": {
+        "Image": "./images_square/173png.png",
+        "Name": "Sherlock Holmes",
+        "Gender": "Male",
+        "Class": ["Ruler"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/sherlock-holmes.jpg"
+    },
+    "Paul Bunyan": {
+        "Image": "./images_square/174png.png",
+        "Name": "Paul Bunyan",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 1,
+        "Release Year": 2019,
+        "Images": "./images/paul-bunyan.jpg"
+    },
+    "Nero Claudius (Caster)": {
+        "Image": "./images_square/175png.png",
+        "Name": "Nero Claudius (Caster)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/nero-claudius-caster.jpg"
+    },
+    "Frankenstein (Saber)": {
+        "Image": "./images_square/176png.png",
+        "Name": "Frankenstein (Saber)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/frankenstein-saber.jpg"
+    },
+    "Nitocris (Assassin)": {
+        "Image": "./images_square/177png.png",
+        "Name": "Nitocris (Assassin)",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/nitocris-assassin.jpg"
+    },
+    "Oda Nobunaga (Berserker)": {
+        "Image": "./images_square/178png.png",
+        "Name": "Penthesilea",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/oda-nobunaga-berserker.jpg"
+    },
+    "Altria Pendragon (Rider Alter)": {
+        "Image": "./images_square/179png.png",
+        "Name": "Altria Pendragon (Rider Alter)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/altria-pendragon-rider-alter.jpg"
+    },
+    "Helena Blavatsky (Archer)": {
+        "Image": "./images_square/180png.png",
+        "Name": "Helena Blavatsky (Archer)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/helena-blavatsky-archer.jpg"
+    },
+    "Minamoto-no-Raikou (Lancer)": {
+        "Image": "./images_square/181png.png",
+        "Name": "Minamoto-no-Raikou (Lancer)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/minamoto-no-raikou-lancer.jpg"
+    },
+    "Ishtar (Rider)": {
+        "Image": "./images_square/182png.png",
+        "Name": "Ishtar (Rider)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/ishtar-rider.jpg"
+    },
+    "Parvati": {
+        "Image": "./images_square/183png.png",
+        "Name": "Parvati",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/parvati.jpg"
+    },
+    "Tomoe Gozen": {
+        "Image": "./images_square/184png.png",
+        "Name": "Tomoe Gozen",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/archer-inferno.jpg"
+    },
+    "Mochizuki Chiyome": {
+        "Image": "./images_square/185png.png",
+        "Name": "Mochizuki Chiyome",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/assassin-paraiso.jpg"
+    },
+    "Houzouin Inshun": {
+        "Image": "./images_square/186png.png",
+        "Name": "Houzouin Inshun",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2019,
+        "Images": "./images/houzouin-inshun.jpg"
+    },
+    "Yagyu Munenori": {
+        "Image": "./images_square/187png.png",
+        "Name": "Yagyu Munenori",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/yagyu-munenori.jpg"
+    },
+    "Katou Danzo": {
+        "Image": "./images_square/188png.png",
+        "Name": "Katou Danzo",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/katou-danzo.jpg"
+    },
+    "Osakabehime": {
+        "Image": "./images_square/189png.png",
+        "Name": "Osakabehime",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/osakabehime.jpg"
+    },
+    "Mecha Eli-chan": {
+        "Image": "./images_square/190png.png",
+        "Name": "Mecha Eli-chan",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/mecha-eli-chan.jpg"
+    },
+    "Mecha Eli-chan Mk.II": {
+        "Image": "./images_square/191png.png",
+        "Name": "Mecha Eli-chan Mk.II",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/mecha-eli-chan-mkii.jpg"
+    },
+    "Circe": {
+        "Image": "./images_square/192png.png",
+        "Name": "Circe",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/caster-okeanos.jpg"
+    },
+    "Nezha": {
+        "Image": "./images_square/193png.png",
+        "Name": "Nezha",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/nezha.jpg"
+    },
+    "Queen of Sheba": {
+        "Image": "./images_square/194png.png",
+        "Name": "Queen of Sheba",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/caster-midrash.jpg"
+    },
+    "Abigail Williams": {
+        "Image": "./images_square/195png.png",
+        "Name": "Abigail Williams",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/abigail-williams.jpg"
+    },
+    "Ereshkigal": {
+        "Image": "./images_square/196png.png",
+        "Name": "Ereshkigal",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2019,
+        "Images": "./images/ereshkigal.jpg"
+    },
+    "Attila the San(ta)": {
+        "Image": "./images_square/197png.png",
+        "Name": "Attila the San(ta)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/attila-santa.jpg"
+    },
+    "Katsushika Hokusai": {
+        "Image": "./images_square/198png.png",
+        "Name": "Katsushika Hokusai",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/katsushika-hokusai.jpg"
+    },
+    "Semiramis": {
+        "Image": "./images_square/199png.png",
+        "Name": "Semiramis",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/semiramis.jpg"
+    },
+    "Asagami Fujino": {
+        "Image": "./images_square/200png.png",
+        "Name": "Asagami Fujino",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2019,
+        "Images": "./images/asagami-fujino.jpg"
+    },
+    "Anastasia Nikolaevna Romanova": {
+        "Image": "./images_square/201png.png",
+        "Name": "Anastasia Nikolaevna Romanova",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/anastasia-nikolaevna-romanova.jpg"
+    },
+    "Atalante (Alter)": {
+        "Image": "./images_square/202png.png",
+        "Name": "Atalante (Alter)",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/atalante-alter.jpg"
+    },
+    "Avicebron": {
+        "Image": "./images_square/203png.png",
+        "Name": "Avicebron",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2020,
+        "Images": "./images/avicebron.jpg"
+    },
+    "Antonio Salieri": {
+        "Image": "./images_square/204png.png",
+        "Name": "Antonio Salieri",
+        "Gender": "Male",
+        "Class": ["Avenger"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2020,
+        "Images": "./images/antonio-salieri.jpg"
+    },
+    "Ivan the Terrible": {
+        "Image": "./images_square/205png.png",
+        "Name": "Ivan the Terrible",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/ivan-terrible.jpg"
+    },
+    "Achilles": {
+        "Image": "./images_square/206png.png",
+        "Name": "Achilles",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/achilles.jpg"
+    },
+    "Chiron": {
+        "Image": "./images_square/207png.png",
+        "Name": "Chiron",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/chiron.jpg"
+    },
+    "Sieg": {
+        "Image": "./images_square/208png.png",
+        "Name": "Sieg",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/sieg.jpg"
+    },
+    "Okita Souji (Alter)": {
+        "Image": "./images_square/209png.png",
+        "Name": "Okita Souji (Alter)",
+        "Gender": "Unknown",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/okita-souji-alter.jpg"
+    },
+    "Okada Izo": {
+        "Image": "./images_square/210png.png",
+        "Name": "Okada Izo",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2020,
+        "Images": "./images/okada-izo.jpg"
+    },
+    "Sakamoto Ryouma": {
+        "Image": "./images_square/211png.png",
+        "Name": "Sakamoto Ryouma",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/sakamoto-ryouma.jpg"
+    },
+    "Napoleon": {
+        "Image": "./images_square/212png.png",
+        "Name": "Napoleon",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/napoleon.jpg"
+    },
+    "Sigurd": {
+        "Image": "./images_square/213png.png",
+        "Name": "Sigurd",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/sigurd.jpg"
+    },
+    "Valkyrie": {
+        "Image": "./images_square/214png.png",
+        "Name": "Valkyrie",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/valkyrie.jpg"
+    },
+    "Scathach-Skadi": {
+        "Image": "./images_square/215png.png",
+        "Name": "Scathach-Skadi",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/scathach-skadi.jpg"
+    },
+    "Jeanne d'Arc (Archer)": {
+        "Image": "./images_square/216png.png",
+        "Name": "Jeanne d'Arc (Archer)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/jeanne-darc-archer.jpg"
+    },
+    "Ibaraki-Douji (Lancer)": {
+        "Image": "./images_square/217png.png",
+        "Name": "Ibaraki-Douji (Lancer)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/ibaraki-douji-lancer.jpg"
+    },
+    "Ushiwakamaru (Assassin)": {
+        "Image": "./images_square/218png.png",
+        "Name": "Ushiwakamaru (Assassin)",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/ushiwakamaru-assassin.jpg"
+    },
+    "Jeanne d'Arc (Berserker Alter)": {
+        "Image": "./images_square/219png.png",
+        "Name": "Jeanne d'Arc (Berserker Alter)",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/jeanne-darc-berserker-alter.jpg"
+    },
+    "BB (Summer)": {
+        "Image": "./images_square/220png.png",
+        "Name": "BB (Summer)",
+        "Gender": "Female",
+        "Class": ["Moon Cancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/bb-summer.jpg"
+    },
+    "Queen Medb (Saber)": {
+        "Image": "./images_square/221png.png",
+        "Name": "Queen Medb (Saber)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/queen-medb-saber.jpg"
+    },
+    "Mysterious Heroine XX": {
+        "Image": "./images_square/222png.png",
+        "Name": "Mysterious Heroine XX",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/mysterious-heroine-xx.jpg"
+    },
+    "Diarmuid ua Duibhne (Saber)": {
+        "Image": "./images_square/223png.png",
+        "Name": "Diarmuid ua Duibhne (Saber)",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/diarmuid-ua-duibhne-saber.jpg"
+    },
+    "Sitonai": {
+        "Image": "./images_square/224png.png",
+        "Name": "Sitonai",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/sitonai.jpg"
+    },
+    "Shuten-Douji (Caster)": {
+        "Image": "./images_square/225png.png",
+        "Name": "Shuten-Douji (Caster)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/shuten-douji-caster.jpg"
+    },
+    "Xiang Yu": {
+        "Image": "./images_square/226png.png",
+        "Name": "Xiang Yu",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/xiang-yu.jpg"
+    },
+    "Prince of Lan Ling": {
+        "Image": "./images_square/227png.png",
+        "Name": "Prince of Lan Ling",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/prince-lan-ling.jpg"
+    },
+    "Qin Liangyu": {
+        "Image": "./images_square/228png.png",
+        "Name": "Qin Liangyu",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/qin-liangyu.jpg"
+    },
+    "Qin Shi Huang": {
+        "Image": "./images_square/229png.png",
+        "Name": "Qin Shi Huang",
+        "Gender": "Unknown",
+        "Class": ["Ruler"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/qin-shi-huang.jpg"
+    },
+    "Yu Mei-ren": {
+        "Image": "./images_square/230png.png",
+        "Name": "Yu Mei-ren",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/yu-mei-ren.jpg"
+    },
+    "Red Hare": {
+        "Image": "./images_square/231png.png",
+        "Name": "Red Hare",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2020,
+        "Images": "./images/red-hare.jpg"
+    },
+    "Bradamante": {
+        "Image": "./images_square/232png.png",
+        "Name": "Bradamante",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2020,
+        "Images": "./images/bradamante.jpg"
+    },
+    "Quetzalcoatl (Samba/Santa)": {
+        "Image": "./images_square/233png.png",
+        "Name": "Quetzalcoatl (Samba/Santa)",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2020,
+        "Images": "./images/quetzalcoatl-sambasanta.jpg"
+    },
+    "Beni-Enma": {
+        "Image": "./images_square/234png.png",
+        "Name": "Beni-Enma",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/beni-enma.jpg"
+    },
+    "Li Shuwen (Assassin)": {
+        "Image": "./images_square/235png.png",
+        "Name": "Li Shuwen (Assassin)",
+        "Gender": "Male",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/li-shuwen-assassin.jpg"
+    },
+    "Miyu Edelfelt": {
+        "Image": "./images_square/236png.png",
+        "Name": "Miyu Edelfelt",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/miyu-edelfelt.jpg"
+    },
+    "Murasaki Shikibu": {
+        "Image": "./images_square/237png.png",
+        "Name": "Murasaki Shikibu",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/murasaki-shikibu.jpg"
+    },
+    "Kingprotea": {
+        "Image": "./images_square/238png.png",
+        "Name": "Kingprotea",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/kingprotea.jpg"
+    },
+    "Kama": {
+        "Image": "./images_square/239png.png",
+        "Name": "Kama",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/kama.jpg"
+    },
+    "Sima Yi (Reines)": {
+        "Image": "./images_square/241png.png",
+        "Name": "Sima Yi (Reines)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/sima-yi-reines.jpg"
+    },
+    "Astraea": {
+        "Image": "./images_square/242png.png",
+        "Name": "Astraea",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/astraea.jpg"
+    },
+    "Gray": {
+        "Image": "./images_square/243png.png",
+        "Name": "Gray",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/gray.jpg"
+    },
+    "Ganesha (Jinako)": {
+        "Image": "./images_square/244png.png",
+        "Name": "Ganesha (Jinako)",
+        "Gender": "Female",
+        "Class": ["Moon Cancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/ganesha-jinako.jpg"
+    },
+    "Lakshmi Bai": {
+        "Image": "./images_square/245png.png",
+        "Name": "Lakshmi Bai",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/lakshmi-bai.jpg"
+    },
+    "William Tell": {
+        "Image": "./images_square/246png.png",
+        "Name": "William Tell",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2021,
+        "Images": "./images/william-tell.jpg"
+    },
+    "Arjuna (Alter)": {
+        "Image": "./images_square/247png.png",
+        "Name": "Arjuna (Alter)",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/arjuna-alter.jpg"
+    },
+    "Asvatthaman": {
+        "Image": "./images_square/248png.png",
+        "Name": "Asvatthaman",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/asvatthaman.jpg"
+    },
+    "Asclepius": {
+        "Image": "./images_square/249png.png",
+        "Name": "Asclepius",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2021,
+        "Images": "./images/asclepius.jpg"
+    },
+    "Demon King Nobunaga (Oda Nobunaga)": {
+        "Image": "./images_square/250png.png",
+        "Name": "Demon King Nobunaga (Oda Nobunaga)",
+        "Gender": "Unknown",
+        "Class": ["Avenger"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/demon-king-nobunaga-oda-nobunaga.jpg"
+    },
+    "Mori Nagayoshi": {
+        "Image": "./images_square/251png.png",
+        "Name": "Mori Nagayoshi",
+        "Gender": "Male",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 3,
+        "Release Year": 2021,
+        "Images": "./images/mori-nagayoshi.jpg"
+    },
+    "Nagao Kagetora": {
+        "Image": "./images_square/252png.png",
+        "Name": "Nagao Kagetora",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/nagao-kagetora.jpg"
+    },
+    "Leonardo da Vinci (Rider)": {
+        "Image": "./images_square/253png.png",
+        "Name": "Leonardo da Vinci (Rider)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/leonardo-da-vinci-rider.jpg"
+    },
+    "Jason": {
+        "Image": "./images_square/254png.png",
+        "Name": "Jason",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 1,
+        "Release Year": 2021,
+        "Images": "./images/jason.jpg"
+    },
+    "Paris": {
+        "Image": "./images_square/255png.png",
+        "Name": "Paris",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 2,
+        "Release Year": 2021,
+        "Images": "./images/paris.jpg"
+    },
+    "Gareth": {
+        "Image": "./images_square/256png.png",
+        "Name": "Gareth",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 2,
+        "Release Year": 2021,
+        "Images": "./images/gareth.jpg"
+    },
+    "Bartholomew Roberts": {
+        "Image": "./images_square/257png.png",
+        "Name": "Bartholomew Roberts",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 1,
+        "Release Year": 2021,
+        "Images": "./images/bartholomew-roberts.jpg"
+    },
+    "Chen Gong": {
+        "Image": "./images_square/258png.png",
+        "Name": "Chen Gong",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 2,
+        "Release Year": 2021,
+        "Images": "./images/chen-gong.jpg"
+    },
+    "Charlotte Corday": {
+        "Image": "./images_square/259png.png",
+        "Name": "Charlotte Corday",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Arts"],
+        "Rarity": 1,
+        "Release Year": 2021,
+        "Images": "./images/charlotte-corday.jpg"
+    },
+    "Salome": {
+        "Image": "./images_square/260png.png",
+        "Name": "Salome",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 2,
+        "Release Year": 2021,
+        "Images": "./images/salome.jpg"
+    },
+    "Miyamoto Musashi (Berserker)": {
+        "Image": "./images_square/261png.png",
+        "Name": "Miyamoto Musashi (Berserker)",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/miyamoto-musashi-berserker.jpg"
+    },
+    "Osakabehime (Archer)": {
+        "Image": "./images_square/262png.png",
+        "Name": "Osakabehime (Archer)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/osakabehime-archer.jpg"
+    },
+    "Carmilla (Rider)": {
+        "Image": "./images_square/263png.png",
+        "Name": "Carmilla (Rider)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/carmilla-rider.jpg"
+    },
+    "Katsushika Hokusai (Saber)": {
+        "Image": "./images_square/264png.png",
+        "Name": "Katsushika Hokusai (Saber)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/katsushika-hokusai-saber.jpg"
+    },
+    "Altria Pendragon (Ruler)": {
+        "Image": "./images_square/265png.png",
+        "Name": "Altria Pendragon (Ruler)",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/altria-pendragon-ruler.jpg"
+    },
+    "Mysterious Alter Ego Λ": {
+        "Image": "./images_square/266png.png",
+        "Name": "Mysterious Alter Ego Λ",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/mysterious-alter-ego-l.jpg"
+    },
+    "Okita J Souji": {
+        "Image": "./images_square/267png.png",
+        "Name": "Okita J Souji",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/okita-j-souji.jpg"
+    },
+    "Space Ishtar": {
+        "Image": "./images_square/268png.png",
+        "Name": "Space Ishtar",
+        "Gender": "Female",
+        "Class": ["Avenger"],
+        "Np Type": ["Arts", "Buster", "Quick"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/space-ishtar.jpg"
+    },
+    "Calamity Jane": {
+        "Image": "./images_square/269png.png",
+        "Name": "Calamity Jane",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/calamity-jane.jpg"
+    },
+    "Astolfo (Saber)": {
+        "Image": "./images_square/270png.png",
+        "Name": "Astolfo (Saber)",
+        "Gender": "Unknown",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/astolfo-saber.jpg"
+    },
+    "Nightingale (Santa)": {
+        "Image": "./images_square/271png.png",
+        "Name": "Nightingale (Santa)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2021,
+        "Images": "./images/nightingale-santa.jpg"
+    },
+    "Super Orion": {
+        "Image": "./images_square/272png.png",
+        "Name": "Super Orion",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/super-orion.jpg"
+    },
+    "Mandricardo": {
+        "Image": "./images_square/273png.png",
+        "Name": "Mandricardo",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 3,
+        "Release Year": 2021,
+        "Images": "./images/mandricardo.jpg"
+    },
+    "Europa": {
+        "Image": "./images_square/274png.png",
+        "Name": "Europa",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2021,
+        "Images": "./images/europa.jpg"
+    },
+    "Yang Guifei": {
+        "Image": "./images_square/275png.png",
+        "Name": "Yang Guifei",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/yang-guifei.jpg"
+    },
+    "Sei Shounagon": {
+        "Image": "./images_square/276png.png",
+        "Name": "Sei Shounagon",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/sei-shounagon.jpg"
+    },
+    "Odysseus": {
+        "Image": "./images_square/277png.png",
+        "Name": "Odysseus",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/odysseus.jpg"
+    },
+    "Dioscuri": {
+        "Image": "./images_square/278png.png",
+        "Name": "Dioscuri",
+        "Gender": "Unknown",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/dioscuri.jpg"
+    },
+    "Caenis": {
+        "Image": "./images_square/279png.png",
+        "Name": "Caenis",
+        "Gender": "Unknown",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/caenis.jpg"
+    },
+    "Romulus-Quirinus": {
+        "Image": "./images_square/280png.png",
+        "Name": "Romulus-Quirinus",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/romulusquirinus.jpg"
+    },
+    "Voyager": {
+        "Image": "./images_square/281png.png",
+        "Name": "Voyager",
+        "Gender": "Male",
+        "Class": ["Foreigner"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/voyager.jpg"
+    },
+    "Kijyo Koyo": {
+        "Image": "./images_square/282png.png",
+        "Name": "Kijyo Koyo",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/kijyo-koyo.jpg"
+    },
+    "Utsumi Erice": {
+        "Image": "./images_square/283png.png",
+        "Name": "Utsumi Erice",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/utsumi-erice.jpg"
+    },
+    "Altria Caster": {
+        "Image": "./images_square/284png.png",
+        "Name": "Altria Caster",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/altria-caster.jpg"
+    },
+    "Sessyoin Kiara (Moon Cancer)": {
+        "Image": "./images_square/285png.png",
+        "Name": "Sessyoin Kiara (Moon Cancer)",
+        "Gender": "Female",
+        "Class": ["Moon Cancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/sessyoin-kiara-moon-cancer.jpg"
+    },
+    "Illyasviel von Einzbern (Archer)": {
+        "Image": "./images_square/286png.png",
+        "Name": "Illyasviel von Einzbern (Archer)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/illyasviel-von-einzbern-archer.jpg"
+    },
+    "Brynhild (Berserker)": {
+        "Image": "./images_square/287png.png",
+        "Name": "Brynhild (Berserker)",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/brynhild-berserker.jpg"
+    },
+    "Yu Mei-ren (Lancer)": {
+        "Image": "./images_square/288png.png",
+        "Name": "Yu Mei-ren (Lancer)",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/yu-mei-ren-lancer.jpg"
+    },
+    "Abigail Williams (Summer)": {
+        "Image": "./images_square/289png.png",
+        "Name": "Abigail Williams (Summer)",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/abigail-williams-summer.jpg"
+    },
+    "Tomoe Gozen (Saber)": {
+        "Image": "./images_square/290png.png",
+        "Name": "Tomoe Gozen (Saber)",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/archer-inferno-saber.jpg"
+    },
+    "Murasaki Shikibu (Rider)": {
+        "Image": "./images_square/291png.png",
+        "Name": "Murasaki Shikibu (Rider)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/murasaki-shikibu-rider.jpg"
+    },
+    "Himiko": {
+        "Image": "./images_square/292png.png",
+        "Name": "Himiko",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/himiko.jpg"
+    },
+    "Saito Hajime": {
+        "Image": "./images_square/293png.png",
+        "Name": "Saito Hajime",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/saito-hajime.jpg"
+    },
+    "Oda Nobukatsu": {
+        "Image": "./images_square/294png.png",
+        "Name": "Oda Nobukatsu",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 1,
+        "Release Year": 2022,
+        "Images": "./images/oda-nobukatsu.jpg"
+    },
+    "Van Gogh": {
+        "Image": "./images_square/295png.png",
+        "Name": "Van Gogh",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/van-gogh.jpg"
+    },
+    "Nemo": {
+        "Image": "./images_square/296png.png",
+        "Name": "Nemo",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/nemo.jpg"
+    },
+    "Ashiya Douman": {
+        "Image": "./images_square/297png.png",
+        "Name": "Ashiya Douman",
+        "Gender": "Unknown",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/ashiya-douman.jpg"
+    },
+    "Watanabe-no-Tsuna": {
+        "Image": "./images_square/298png.png",
+        "Name": "Watanabe-no-Tsuna",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/watanabe-no-tsuna.jpg"
+    },
+    "Ibuko-Douji": {
+        "Image": "./images_square/299png.png",
+        "Name": "Ibuki-Douji",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/ibuki-douji.jpg"
+    },
+    "Vritra": {
+        "Image": "./images_square/300png.png",
+        "Name": "Vritra",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2022,
+        "Images": "./images/vritra.jpg"
+    },
+    "Karna (Santa)": {
+        "Image": "./images_square/301png.png",
+        "Name": "Karna (Santa)",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2022,
+        "Images": "./images/karna-santa.jpg"
+    },
+    "Senji Muramasa": {
+        "Image": "./images_square/302png.png",
+        "Name": "Senji Muramasa",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/senji-muramasa.jpg"
+    },
+    "Taira-no-Kagekiyo": {
+        "Image": "./images_square/302png.png",
+        "Name": "Taira-no-Kagekiyo",
+        "Gender": "Unknown",
+        "Class": ["Avenger"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/taira-no-kagekiyo.jpg"
+    },
+    "Kiichi Hogen": {
+        "Image": "./images_square/304png.png",
+        "Name": "Kiichi Hogen",
+        "Gender": "Unknown",
+        "Class": ["Assassin"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/kiichi-hogen.jpg"
+    },
+    "Amor (Caren)": {
+        "Image": "./images_square/305png.png",
+        "Name": "Amor (Caren)",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/amor-caren.jpg"
+    },
+    "Galatea": {
+        "Image": "./images_square/305png.png",
+        "Name": "Galatea",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/galatea.jpg"
+    },
+    "Miss Crane": {
+        "Image": "./images_square/307png.png",
+        "Name": "Miss Crane",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Miss_Crane.jpg"
+    },
+    "Mysterious Idol X (Alter)": {
+        "Image": "./images_square/308png.png",
+        "Name": "Mysterious Idol X (Alter)",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Mysterious_Idol_X_Alter.jpg"
+    },
+    "Morgan": {
+        "Image": "./images_square/309png.png",
+        "Name": "Morgan",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/morgan.jpg"
+    },
+    "Barghest": {
+        "Image": "./images_square/310png.png",
+        "Name": "Barghest",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Barghest.jpg"
+    },
+    "Baobhan Sith": {
+        "Image": "./images_square/311png.png",
+        "Name": "Baobhan Sith",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Baobhan_Sith.jpg"
+    },
+    "Melusine": {
+        "Image": "./images_square/312png.png",
+        "Name": "Melusine",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts", "Buster"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Mélusine.jpg"
+    },
+    "Percival": {
+        "Image": "./images_square/313png.png",
+        "Name": "Percival",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Percival.jpg"
+    },
+    "Koyanskaya of Light": {
+        "Image": "./images_square/314png.png",
+        "Name": "Koyanskaya of Light",
+        "Gender": "Female",
+        "Class": ["Assassin"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Koyanskaya_of_Light.jpg"
+    },
+    "Habetrot": {
+        "Image": "./images_square/315png.png",
+        "Name": "Habetrot",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Habetrot.jpg"
+    },
+    "Oberon": {
+        "Image": "./images_square/316png.png",
+        "Name": "Oberon",
+        "Gender": "Male",
+        "Class": ["Pretender"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Oberon.jpg"
+    },
+    "Okita Souji (Saber Alter)": {
+        "Image": "./images_square/317png.png",
+        "Name": "Okita Souji (Saber Alter)",
+        "Gender": "Unknown",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Okita_Sōji_Saber_Alter.jpg"
+    },
+    "Anastasia & Viy (Archer)": {
+        "Image": "./images_square/318png.png",
+        "Name": "Anastasia & Viy (Archer)",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Anastasia_Viy.jpg"
+    },
+    "Charlotte Corday (Caster)": {
+        "Image": "./images_square/319png.png",
+        "Name": "Charlotte Corday (Caster)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Charlotte_Corday_Caster.jpg"
+    },
+    "Leonardo da Vinci (Ruler)": {
+        "Image": "./images_square/320png.png",
+        "Name": "Leonardo da Vinci (Ruler)",
+        "Gender": "Female",
+        "Class": ["Ruler"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Leonardo_Da_Vinci_Ruler.jpg"
+    },
+    "Kama (Avenger)": {
+        "Image": "./images_square/321png.png",
+        "Name": "Kama (Avenger)",
+        "Gender": "Female",
+        "Class": ["Avenger"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Kama_Avenger.jpg"
+    },
+    "Caenis (Rider)": {
+        "Image": "./images_square/322png.png",
+        "Name": "Caenis (Rider)",
+        "Gender": "Unknown",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Caenis_Rider.jpg"
+    },
+    "Sei Shounagon (Berserker)": {
+        "Image": "./images_square/323png.png",
+        "Name": "Sei Shounagon (Berserker)",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Sei_Shōnagon_Berserker.jpg"
+    },
+    "Jacques de Molay": {
+        "Image": "./images_square/324png.png",
+        "Name": "Jacques de Molay",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Jacques_de_Molay.jpg"
+    },
+    "Zenobia": {
+        "Image": "./images_square/325png.png",
+        "Name": "Zenobia",
+        "Gender": "Female",
+        "Class": ["Archer"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Zenobia.jpg"
+    },
+    "Elisabeth Bathory (Cinderella)": {
+        "Image": "./images_square/326png.png",
+        "Name": "Elisabeth Bathory (Cinderella)",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Elizabeth_Báthory_Cinderella.jpg"
+    },
+    "Izumo-no-Okuni": {
+        "Image": "./images_square/327png.png",
+        "Name": "Izumo-no-Okuni",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Izumo_no_Okuni.jpg"
+    },
+    "Mysterious Ranmaru X": {
+        "Image": "./images_square/328png.png",
+        "Name": "Mysterious Ranmaru X",
+        "Gender": "Unknown",
+        "Class": ["Avenger"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Mysterious_Ranmaru_X.jpg"
+    },
+    "Sakamoto Ryouma (Lancer)": {
+        "Image": "./images_square/329png.png",
+        "Name": "Sakamoto Ryouma (Lancer)",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Sakamoto_Ryoma_Lancer.jpg"
+    },
+    "Saint Martha (Santa)": {
+        "Image": "./images_square/330png.png",
+        "Name": "Saint Martha (Santa)",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "./images/Martha_Santa.jpg"
+    },
+    "Taigong Wang": {
+        "Image": "./images_square/331png.png",
+        "Name": "Taigong Wang",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2023,
+        "Images": "./images/Taigong_Wang.jpg"
+    },
+    "Dobrynya Nikitich": {
+        "Image": "./images_square/332png.png",
+        "Name": "Dobrynya Nikitich",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2023,
+        "Images": "none"
+    },
+    "Koyanskaya of Dark": {
+        "Image": "./images_square/334png.png",
+        "Name": "Koyanskaya of Dark",
+        "Gender": "Female",
+        "Class": ["Foreigner"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "./images/Koyanskaya_of_Darkness.jpg"
+    },
+    "Hephaistion": {
+        "Image": "./images_square/335png.png",
+        "Name": "Hephaistion",
+        "Gender": "Female",
+        "Class": ["Pretender"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2024,
+        "Images": "./images/Hephaestion.jpg"
+    },
+    "Manannan mac Lir (Bazett)": {
+        "Image": "./images_square/336png.png",
+        "Name": "Manannan mac Lir (Bazett)",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "./images/Manannán_mac_Lir_Bazett.jpg"
+    },
+    "Hai Ba Trung": {
+        "Image": "./images_square/337png.png",
+        "Name": "Hai Ba Trung",
+        "Gender": "Female",
+        "Class": ["Saber"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Taisui Xingjun": {
+        "Image": "./images_square/338png.png",
+        "Name": "Taisui Xingjun",
+        "Gender": "Male",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Super Bunyan": {
+        "Image": "./images_square/339png.png",
+        "Name": "Super Bunyan",
+        "Gender": "Female",
+        "Class": ["Alter Ego"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Daikokuten": {
+        "Image": "./images_square/340png.png",
+        "Name": "Daikokuten",
+        "Gender": "Female",
+        "Class": ["Caster"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Mary Anning": {
+        "Image": "./images_square/341png.png",
+        "Name": "Mary Anning",
+        "Gender": "Female",
+        "Class": ["Lancer"],
+        "Np Type": ["Arts"],
+        "Rarity": 1,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Konstantinos XI": {
+        "Image": "./images_square/342png.png",
+        "Name": "Konstantinos XI",
+        "Gender": "Male",
+        "Class": ["Rider"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Charlemagne": {
+        "Image": "./images_square/343png.png",
+        "Name": "Charlemagne",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Quick"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Roland": {
+        "Image": "./images_square/344png.png",
+        "Name": "Roland",
+        "Gender": "Male",
+        "Class": ["Saber"],
+        "Np Type": ["Buster"],
+        "Rarity": 4,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Kriemhild": {
+        "Image": "./images_square/345png.png",
+        "Name": "Kriemhild",
+        "Gender": "Female",
+        "Class": ["Berserker"],
+        "Np Type": ["Arts"],
+        "Rarity": 4,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "James Moriarty (Ruler)": {
+        "Image": "./images_square/346png.png",
+        "Name": "James Moriarty (Ruler)",
+        "Gender": "Male",
+        "Class": ["Ruler"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Don Quixote": {
+        "Image": "./images_square/347png.png",
+        "Name": "Don Quixote",
+        "Gender": "Male",
+        "Class": ["Lancer"],
+        "Np Type": ["Quick"],
+        "Rarity": 4,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Zhang Jue": {
+        "Image": "./images_square/348png.png",
+        "Name": "Zhang Jue",
+        "Gender": "Male",
+        "Class": ["Caster"],
+        "Np Type": ["Quick"],
+        "Rarity": 3,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Kyokutei Bakin": {
+        "Image": "./images_square/349png.png",
+        "Name": "Kyokutei Bakin",
+        "Gender": "Female",
+        "Class": ["Rider"],
+        "Np Type": ["Arts"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "none"
+    },
+    "Minamoto-no-Tametomo": {
+        "Image": "./images_square/350png.png",
+        "Name": "Minamoto-no-Tametomo",
+        "Gender": "Male",
+        "Class": ["Archer"],
+        "Np Type": ["Buster"],
+        "Rarity": 5,
+        "Release Year": 2024,
+        "Images": "none"
+    }
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" /> <!--this is to set characters to default UTF-8 (don't ask wut UTF-8 is, idk either)-->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!--NO CLUE WUT THIS DOES i just copy pasted-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--This is to rescale for mobile devices-->
+        <title>fgodle</title>
+        <link rel="icon" type="image/x-icon" href="./morgan-icon.jpg">
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <div class="popup" id="popup1">
+            <div class="overlay"></div>
+            <div class="content">
+                <div class="close_button_popup" onclick="toggle_Popup();">&times;</div>
+                <h1>Congratulations!</h1>
+                <p>You guessed:</p>
+                <div id="congrats_img"></div>
+                <p id="congrats_name"></p>
+            </div>
+        </div>
+        <div id="game"> 
+            <div id="title">
+                <img src="./images/morgan.jpg" height="40px" class="chibi_morgan">FGODLE<img src="./images/morgan.jpg" height="40px" class="chibi_morgan">
+            </div>
+            <div id="textbox">
+                <input type="text" name="user_input" id="myInput" list="servants" placeholder="Type servant name ...">
+                    <datalist id="servants"></datalist>
+                <button id="myBtn" onclick="print_line();">Submit</button>
+            </div>
+            <div id="sections"></div>
+            <div id="grid"></div>
+            <div id="color_indicators_container">
+                <div id="colors_title">Color Indicators</div>
+                <div id="close_button">
+                    <span id="close" onclick="this.parentNode.parentNode.remove(); return false;">x</span>
+                </div>
+                <div class="color_indicators">
+                    <div class="color_indicator">
+                        <div class="square_color good"></div>
+                        <div>Correct</div>
+                    </div>
+                    <div class="color_indicator">
+                        <div class="square_color partial tooltip">
+                            <span class="tooltip_text">One of more properties are correct, but not all</span>
+                        </div>
+                        <div>Partial</div>
+                    </div>
+                    <div class="color_indicator">
+                        <div class="square_color wrong"></div>
+                        <div>Incorrect</div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="tooltip" id="hint">
+                    Hint:
+                    <span class="tooltip_text">If toggled: slowly reveals the servant in the background as you guess (only for servants before April 2024)</span>
+                </div> 
+                <input type="checkbox" id="check">
+                <label for="check" class="button"></label>
+            </div>
+        </div>
+        <script type="module" src="./index.js"></script>
+    </body>
+</html>
