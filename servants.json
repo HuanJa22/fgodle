@@ -2990,7 +2990,7 @@
         "Images": "./images/amor-caren.jpg"
     },
     "Galatea": {
-        "Image": "./images_square/305png.png",
+        "Image": "./images_square/306png.png",
         "Name": "Galatea",
         "Gender": "Female",
         "Class": ["Berserker"],
