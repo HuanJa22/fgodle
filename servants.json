@@ -3269,9 +3269,9 @@
         "Release Year": 2024,
         "Images": "./images/Koyanskaya_of_Darkness.jpg"
     },
-    "Hephaistion": {
+    "Hephaestion": {
         "Image": "./images_square/335png.png",
-        "Name": "Hephaistion",
+        "Name": "Hephaestion",
         "Gender": "Female",
         "Class": ["Pretender"],
         "Np Type": ["Arts"],
